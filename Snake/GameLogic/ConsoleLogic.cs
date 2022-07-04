@@ -104,6 +104,7 @@ namespace Snake.GameLogic
             Console.WriteLine("****************************");
             Console.WriteLine("Game Over!");
             Console.WriteLine($"Player score was: {score}");
+            Console.WriteLine("****************************");
             Console.ReadLine();
         }
     }
